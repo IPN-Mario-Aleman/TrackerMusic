@@ -1,4 +1,4 @@
 module.exports = {
   root: true,
-  extends: '@react-native',
-};
+  extends: './node_modules/standard/eslintrc.json'
+}
